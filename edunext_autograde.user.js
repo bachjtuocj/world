@@ -1,7 +1,7 @@
 // ==UserScript==
-// @version      1.0.1
 // @name         Auto Grade EduNext
 // @namespace    http://localhost/
+// @version      1.0.1
 // @description  try to take over the world!
 // @author       btcj
 // @updateURL    https://github.com/bachjtuocj/world/raw/main/edunext_autograde.user.js
