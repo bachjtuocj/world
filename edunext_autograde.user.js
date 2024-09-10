@@ -4,8 +4,8 @@
 // @version      2024-06-18
 // @description  try to take over the world!
 // @author       btcj
-// @match        https://edunext.fpt.edu.vn/course/activity/question?id=*
-// @icon         https://edunext.fpt.edu.vn/assets/favicon-C09Xwo_-.ico
+// @match        https://fu-edunext.fpt.edu.vn/course/activity/question?id=*
+// @icon         https://fu-edunext.fpt.edu.vn/assets/favicon-C09Xwo_-.ico
 // @grant        none
 // ==/UserScript==
 
